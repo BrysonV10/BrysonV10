@@ -9,5 +9,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrysonV10&theme=highcontrast)
 
-### Dark Mode User!!!
+
 *Discord: BryV1#2416*
